@@ -1,0 +1,7 @@
+[package]
+name = "bogosort_rs"
+version = "0.1.0"
+authors = ["natfaulk <nfaulk@hotmail.co.uk>"]
+
+[dependencies]
+rand="*"
